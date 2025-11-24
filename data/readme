@@ -1,1 +1,13 @@
-This is processed data for drawing figures in the maintext.
+This folder contains the data being organized to generate the figures in the main text. 
+
+The data is organized into five subdirectories:
+
+curve: Data for fire size distribution curves.
+
+beta: Data for β value bar charts.
+
+ba: Annual trends in fire frequency and burned area.
+
+climate: Meteorological data (Tmean, VPDmax, Tmin, Tmax) comparing climate conditions between urban-edge and wildland fires.
+
+ndvi: Vegetation index (NDVI) data comparing vegetation differences between urban-edge and wildland fires.
